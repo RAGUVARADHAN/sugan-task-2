@@ -1,0 +1,39 @@
+
+<!doctype html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TIGER</title>
+	<style>
+		body{
+			background-image:url(tiger1.jpg);
+			background-repeat:no-repeat;
+			background-attachment:fixed;
+			background-size:100% 100%;
+		}
+		a:hover 
+		{
+           color:red;
+		}
+		a:link
+		{
+			color:blue;
+		}
+		a:visited
+		{
+			color:skyblue ;
+		}
+		a:active
+		{
+			color:darkblue;
+		}
+	</style>
+</head>
+<body>
+	<h1 style="color:ghostwhite;text-align:center;font-size:60px;">TIGER</h1>
+	<p style="color:darkgrey;text-align:center;font-size:35px;border:3px solid yellow;margin-left:720px;">The tiger(Panthera tigris) is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. An apex predator, it primarily preys on ungulates such as deer and wild boar. It is territorial and generally a solitary but social predator, requiring large contiguous areas of habitat, which support its requirements for prey and rearing of its offspring. Tiger cubs stay with their mother for about two years, then become independent and leave their mother's home range to establish their own.</p>
+	<p style="text-align:right">
+	<button style="border-color:black;border-radius:10px;background-color:grey;"title='click me to know hybrids of tiger' onclick="document.location='tiger2.html'"><p style="color:darkblue;">next page</p></button>
+    </p>
+</body>
+</html>	
